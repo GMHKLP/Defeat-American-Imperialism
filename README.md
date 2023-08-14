@@ -7,3 +7,4 @@ A 2D Polish ball landscape shooter\
 If you want to view this project, you can download the file, extract all the zips, and open the file with godot 3.5
 # 更新日志
 0.0.1（23.8.15）
+# 感谢
