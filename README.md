@@ -8,6 +8,7 @@ If you want to view this project, you can download the file, extract all the zip
 ## 更新日志
 #### 0.0.1（23.8.15）
 游戏基本能玩了，但依然存在很多bug，并且还没有做关卡系统。
+#### 0.0.2（23.8.15）
 ## 感谢
 鲍狄埃的公社红球 (剧情)
 科蒙尼斯莫共和国(贴图)
