@@ -16,4 +16,3 @@ If you want to view this project, you can download the file, extract all the zip
 鲍狄埃的公社红球 (剧情)\
 科蒙尼斯莫共和国(贴图)\
 GMHKLP(代码)\
-以及试玩并给出宝贵建议的玩家们
